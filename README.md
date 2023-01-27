@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryan_1757" target="blank"><img src="https://img.shields.io/twitter/follow/aryan_1757?logo=twitter&style=for-the-badge" alt="aryan_1757" /></a> </p>
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m currently working as **Student** & I'm pursuing bachelor degree in computer engineering.
 
 - 🌱 I’m currently learning **Augmented Reality , Frameworks & many more:)**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UCajjpKuEmfuLYfotd_NvcJA](https://www.youtube.com/channel/UCajjpKuEmfuLYfotd_NvcJA)
 
-- 💬 Ask me about **My name is ARYAN PRAJAPATI . I'm C# programmer and Unity Developer . I'm Studied now in Sardar Vallabhbhai Patel Institute Of Technology, Vasad. I'm computer engineer student. I know about of AR modeling 2D-3D , pathfinding , Augmented reality & have a knowledge of Frontend Web development . Little Knowledge & logic of Data Science ,Flutter ,Kotlin & I have a participated in GOOGLE summer event.**
+- 💬 Ask me about **My name is ARYAN PRAJAPATI . I'm C# programmer and Unity Developer . I'm a student pursuing bachelor degree in computer engineering in Sardar Vallabhbhai Patel Institute Of Technology, Vasad. I'm computer engineer student. I know about of AR modeling 2D-3D , pathfinding , Augmented reality & have a knowledge of Frontend Web development . Little Knowledge & logic of Data Science ,Flutter ,Kotlin & I have a participated in GOOGLE summer event.**
 
 - 📫 How to reach me **a4prajapati97@gmail.com**
 
