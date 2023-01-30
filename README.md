@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UCajjpKuEmfuLYfotd_NvcJA](https://www.youtube.com/channel/UCajjpKuEmfuLYfotd_NvcJA)
 
-- 💬 Ask me about **My name is ARYAN PRAJAPATI . I'm C# programmer and Unity Developer . I'm a student pursuing bachelor degree in computer engineering in Sardar Vallabhbhai Patel Institute Of Technology.I know about of AR modeling 2D-3D , pathfinding , Augmented reality & have a knowledge of Frontend Web development . Little Knowledge & logic of Data Science ,Flutter ,Kotlin & I have a participated in GOOGLE summer event.**
+- 💬 Ask me about **My Name is ARYAN PRAJAPATI . I'm C# programmer and Unity Developer . I'm a student pursuing bachelor degree in computer engineering in Sardar Vallabhbhai Patel Institute Of Technology.I know about of AR modeling 2D-3D , pathfinding , Augmented reality & have a knowledge of Frontend Web development . Little Knowledge & logic of Data Science ,Flutter ,Kotlin & I have a participated in GOOGLE summer event.**
 
 - 📫 How to reach me **a4prajapati97@gmail.com**
 
