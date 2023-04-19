@@ -1,7 +1,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)(https://aryan-kunalgsolanki-kgs2002107.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Aryan Prajapati</h1>
-<h3 align="center">A passionate frontend & Augmented Reality developer from India</h3>
+<h3 align="center">A passionate Augmented Reality & App developer from India.</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/a757fdcf5a47eede49d003a2ba57d217d04b54913f960731119e604aa8e743eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanp1757&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp1757" /> </p>
